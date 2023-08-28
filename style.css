@@ -1,0 +1,17 @@
+div{
+    margin-top: 25px;
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    text-shadow: 3px 3px 20px #ff99cc,
+    -2px 1px 30px #ff99cc;
+}
+input{
+    width: 200px;
+    height: 25px;
+}
+body{
+    background-color: rgb(123, 214, 218);
+}
